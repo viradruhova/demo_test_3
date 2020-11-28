@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 #stuff on brunch
+=======
+#stuff on branch
+>>>>>>> Vikabranch
+#stuff on branch
